@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ContactMe</string>
+    <string name="no_data_record">No Data Record</string>
+    <string name="address_location">Address Location</string>
+
+    <string-array name="image_thumbnails">
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8kiSH5ZSAcVoj3tAQQDoP_ux0sSricMyUg&amp;s</item>
+        <item>https://insightglobal.com/wp-content/uploads/2022/10/headshot-1024x683.jpg</item>
+        <item>https://pics.craiyon.com/2023-07-02/a9d95391385940b2bd9edfd7cffbf10d.webp</item>
+        <item>https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg</item>
+        <item>https://www.shutterstock.com/image-photo/head-shot-portrait-close-smiling-600nw-1714666150.jpg</item>
+        <item>https://media.istockphoto.com/id/1186079153/photo/hell-stay-until-he-has-it-all-figured-out.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=OK2bPjppdTpV9JPMmAua9gNMQnY_PObdkzmKWFj8Pmg=</item>
+        <item>https://media.istockphoto.com/id/1370723788/photo/shot-of-a-young-businessman-using-a-laptop-in-an-office-at-work.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=-p7XkB80sY23ki0VYbAtUvzvDtjHE7eH_lFExZcL9AU=</item>
+        <item>https://st.depositphotos.com/1000975/56527/i/450/depositphotos_565276808-stock-photo-young-businessman-employee-and-too.jpg</item>
+        <item>https://st2.depositphotos.com/1000975/42727/i/450/depositphotos_427273344-stock-photo-businessman-working-in-the-office.jpg</item>
+        <item>https://st3.depositphotos.com/11233746/17791/i/450/depositphotos_177914854-stock-photo-happy-businessman-looking-computer-showing.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxsG3Ac8-CCLG3PzEvZXAfVoQxmjHleJqjg&amp;s</item>
+        <item>https://www.perfocal.com/blog/content/images/size/w960/2021/01/Perfocal_17-11-2019_TYWFAQ_100_standard-3.jpg</item>
+    </string-array>
+</resources>
